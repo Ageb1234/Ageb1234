@@ -67,9 +67,10 @@ var angello = new Developer
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### DevOps & Cloud
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -92,34 +93,24 @@ var angello = new Developer
 
 <div align="center">
 
-<!-- Stats + Streak side by side -->
+<!-- Streak Stats (reliable, always renders) -->
 <a href="https://github.com/Ageb1234">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ageb1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true&rank_icon=percentile" />
-</a>
-<a href="https://github.com/Ageb1234">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Ageb1234&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
-</a>
-
-<br/>
-
-<!-- Top Languages donut chart -->
-<a href="https://github.com/Ageb1234">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ageb1234&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Ageb1234&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
 </a>
 
 <br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ageb1234&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+<a href="https://github.com/Ageb1234">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ageb1234&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+</a>
 
 <br/>
 
-<!-- Snake Contribution Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ageb1234/Ageb1234/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ageb1234/Ageb1234/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ageb1234/Ageb1234/output/github-snake-dark.svg" />
-</picture>
+<!-- Trophies -->
+<a href="https://github.com/Ageb1234">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ageb1234&theme=onestar&no-bg=true&no-frame=true&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+</a>
 
 </div>
 
