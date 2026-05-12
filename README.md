@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=.NET+MAUI+%7C+ASP.NET+Core+%7C+Angular;Offline-First+Architecture+%7C+Cloud+%26+DevOps;Building+enterprise+solutions+for+the+mining+industry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=.NET+MAUI+%7C+ASP.NET+Core+%7C+Angular;Clean+Architecture+%7C+MVVM+%7C+Cloud+%26+DevOps;Building+enterprise+solutions+for+the+mining+industry" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,12 +30,12 @@ var angello = new Developer
     Location    = "Peru",
     Degree      = "B.S. Systems Engineering — Universidad Privada del Norte",
     Languages   = new[] { "Spanish (Native)", "English" },
-    Interests   = new[] { "Mobile Architecture", "Offline-First Design", "Cloud", "DevOps" }
+    Interests   = new[] { "Clean Architecture", "MVVM", "Cloud", "DevOps" }
 };
 ```
 
 - **Building** enterprise-grade cross-platform mobile apps with **.NET MAUI**
-- **Architecting** offline-first systems with **Outbox Pattern + SQLite + auto-sync**
+- **Applying** Clean Architecture & **MVVM** patterns across full-stack projects
 - **Integrating** third-party fleet APIs at production scale
 - **Deploying** to **Google Play Store** & **Apple App Store**
 
