@@ -28,17 +28,16 @@ var angello = new Developer
     Name        = "Angello Espinoza",
     Role        = "Systems Engineer & Full Stack Developer",
     Location    = "Peru",
-    Education   = "Universidad Privada del Norte — Systems Engineering",
+    Degree      = "B.S. Systems Engineering — Universidad Privada del Norte",
     Languages   = new[] { "Spanish (Native)", "English" },
-    CurrentWork = "Enterprise Mining Management System (ERP Mobile + Web + API)",
     Interests   = new[] { "Mobile Architecture", "Offline-First Design", "Cloud", "DevOps" }
 };
 ```
 
-- **Building** enterprise-grade mobile apps with **.NET MAUI** serving **130+ vehicles** in real-time
+- **Building** enterprise-grade cross-platform mobile apps with **.NET MAUI**
 - **Architecting** offline-first systems with **Outbox Pattern + SQLite + auto-sync**
-- **Integrating** third-party fleet APIs (**Volvo Trucks API**) at production scale
-- **Shipping** to **Google Play Store** with CI/CD via **GitHub Actions**
+- **Integrating** third-party fleet APIs at production scale
+- **Deploying** to **Google Play Store** & **Apple App Store**
 
 ---
 
@@ -51,6 +50,7 @@ var angello = new Developer
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,12 +67,16 @@ var angello = new Developer
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-### DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### DevOps & Cloud
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Tools & IDEs
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -88,16 +92,34 @@ var angello = new Developer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ageb1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ageb1234&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<!-- Stats + Streak side by side -->
+<a href="https://github.com/Ageb1234">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ageb1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&include_all_commits=true&count_private=true&rank_icon=percentile" />
+</a>
+<a href="https://github.com/Ageb1234">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Ageb1234&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+</a>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ageb1234&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+<!-- Top Languages donut chart -->
+<a href="https://github.com/Ageb1234">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ageb1234&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ageb1234&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ageb1234&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+
+<br/>
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ageb1234/Ageb1234/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ageb1234/Ageb1234/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ageb1234/Ageb1234/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -109,7 +131,7 @@ var angello = new Developer
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Gestor Minera Mobile** | Enterprise ERP mobile app for mining operations. Offline-first architecture, 130+ fleet vehicles, Volvo API integration, Play Store deployed | `.NET MAUI` `SQLite` `Firebase` `Refit` |
+| **Gestor Minera Mobile** | Enterprise ERP mobile app for mining operations. Offline-first architecture, 130+ fleet vehicles, deployed on Play Store & App Store | `.NET MAUI` `SQLite` `Firebase` `Refit` |
 | **Gestor Minera API** | RESTful backend powering the mining management platform. Multi-module: Transport, Plant, Logistics, HR, Attendance | `ASP.NET Core` `EF Core` `SQL Server` |
 | **Gestor Minera Web** | Admin dashboard for mining operations. Attendance dashboards, real-time charts, permission-based views | `Angular` `TypeScript` `LiveCharts` |
 
@@ -117,25 +139,12 @@ var angello = new Developer
 
 ---
 
-## <img width="25" src="https://user-images.githubusercontent.com/76244600/209294904-1eb10e6e-8e0d-41e9-87c2-f3a3e89bf685.gif"> Architecture Highlights
+## <img width="25" src="https://user-images.githubusercontent.com/76244600/209294904-1eb10e6e-8e0d-41e9-87c2-f3a3e89bf685.gif"> Currently
 
-```
-Mobile App (.NET MAUI)
-    |
-    +-- Outbox Pattern ---------> SQLite (offline queue)
-    |       |
-    |       +-- Auto-Sync ------> REST API (on connectivity restore)
-    |
-    +-- Photo Storage ----------> Local disk (paths in outbox, not base64)
-    |
-    +-- 3-Level Cache ----------> RAM -> SQLite -> API
-    |
-    +-- Volvo Fleet API --------> 130 trucks real-time tracking
-    |
-    +-- Firebase ----------------> Crashlytics + Analytics
-    |
-    +-- GitHub Actions ----------> CI/CD with automated testing (49+ unit tests)
-```
+- Cross-platform deployment to **Play Store** & **App Store** with .NET MAUI
+- Integrating **Volvo Trucks Fleet API** for real-time vehicle tracking
+- Exploring **Swift** for native iOS modules
+- Writing **unit tests** & setting up **CI/CD pipelines**
 
 ---
 
