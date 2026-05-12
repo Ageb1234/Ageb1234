@@ -66,6 +66,7 @@ var angello = new Developer
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -89,33 +90,6 @@ var angello = new Developer
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
-
-<div align="center">
-
-<!-- Streak Stats (reliable, always renders) -->
-<a href="https://github.com/Ageb1234">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Ageb1234&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
-</a>
-
-<br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/Ageb1234">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ageb1234&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
-</a>
-
-<br/>
-
-<!-- Trophies -->
-<a href="https://github.com/Ageb1234">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ageb1234&theme=onestar&no-bg=true&no-frame=true&column=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" />
-</a>
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
 
 <div align="center">
@@ -133,7 +107,6 @@ var angello = new Developer
 ## <img width="25" src="https://user-images.githubusercontent.com/76244600/209294904-1eb10e6e-8e0d-41e9-87c2-f3a3e89bf685.gif"> Currently
 
 - Cross-platform deployment to **Play Store** & **App Store** with .NET MAUI
-- Integrating **Volvo Trucks Fleet API** for real-time vehicle tracking
 - Exploring **Swift** for native iOS modules
 - Writing **unit tests** & setting up **CI/CD pipelines**
 
